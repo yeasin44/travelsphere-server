@@ -1,0 +1,56 @@
+[
+  {
+    "_id": "6369a21d6717d9616b309fab",
+    "service_id": "01",
+    "title": "Mysterious Goreme",
+    "img": "https://planetofhotels.com/guide/sites/default/files/styles/paragraph__live_banner__lb_image__1880bp/public/live_banner/Goreme.jpg",
+    "price": "1200",
+    "rating": "4",
+    "description": "Göreme is a town in the Cappadocia region of central Turkey. Just east of town is the Göreme Open Air Museum, with cave churches and frescoes from the 10th to 12th centuries. Southwest is Uçhisar Castle, a fortification carved into a large rock, with panoramic views from the top. To the north, the landscape at Paşabağ Valley is known for Cappadocia’s “fairy chimneys,” cone-shaped rock formations."
+  },
+  {
+    "_id": "6369a21d6717d9616b309fac",
+    "service_id": "02",
+    "title": "Awesome Dubai",
+    "img": "https://pix10.agoda.net/geo/city/2994/1_2994_02.jpg?ca=6&ce=1&s=1920x822",
+    "price": "1500",
+    "rating": "5",
+    "description": "Dubai is situated on the Persian Gulf coast of the United Arab Emirates and is roughly at sea level (16 m or 52 ft above). The emirate of Dubai shares borders with Abu Dhabi in the south, Sharjah in the northeast, and the Sultanate of Oman in the southeast. Hatta, a minor exclave of the emirate, is surrounded on three sides by Oman and by the emirates of Ajman (in the west) and Ras Al Khaimah (in the north). The Persian Gulf borders the western coast of the emirate. Dubai is positioned at 25.2697°N 55.3095°E and covers an area of 1,588 sq mi (4,110 km2), which represents a significant expansion beyond its initial 1,500 sq mi (3,900 km2) designation due to land reclamation from the sea. Dubai lies directly within the Arabian Desert. However, the topography of Dubai is significantly different from that of the southern portion of the UAE in that much of Dubai’s landscape is highlighted by sandy desert patterns, while gravel deserts dominate much of the southern region of the country.[55] The sand consists mostly of crushed shell and coral and is fine, clean and white. East of the city, the salt-crusted coastal plains, known as sabkha, give way to a north-south running line of dunes. Farther east, the dunes grow larger and are tinged red with iron oxide."
+  },
+  {
+    "_id": "6369a21d6717d9616b309fad",
+    "service_id": "03",
+    "title": "Cox's Bazar",
+    "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e2/f8/43/longest-sea-beach-in.jpg?w=700&h=-1&s=1",
+    "price": "800",
+    "rating": "5",
+    "description": "Cox’s Bazar is a town on the southeast coast of Bangladesh. It’s known for its very long, sandy beachfront, stretching from Sea Beach in the north to Kolatoli Beach in the south. Aggameda Khyang monastery is home to bronze statues and centuries-old Buddhist manuscripts. South of town, the tropical rainforest of Himchari National Park has waterfalls and many birds. North, sea turtles breed on nearby Sonadia Island"
+  },
+  {
+    "_id": "6369a21d6717d9616b309fae",
+    "service_id": "04",
+    "title": "Magical Maldives",
+    "img": "http://cdn.cnn.com/cnnnext/dam/assets/220707113925-17-maldives-best-overwater-villas-velaa.jpg",
+    "price": "900",
+    "rating": "5",
+    "description": "Maldives, officially the Republic of Maldives, is an archipelagic state located in South Asia, situated in the Indian Ocean. It lies southwest of Sri Lanka and India, about 750 kilometres from the Asian continent's mainland"
+  },
+  {
+    "_id": "6369a21d6717d9616b309faf",
+    "service_id": "05",
+    "title": "Fabulous Switzerland",
+    "img": "https://s30876.pcdn.co/wp-content/uploads/Switzerland.jpg.optimal.jpg",
+    "price": "1800",
+    "rating": "5",
+    "description": "Switzerland is a mountainous Central European country, home to numerous lakes, villages and the high peaks of the Alps. Its cities contain medieval quarters, with landmarks like capital Bern’s Zytglogge clock tower and Lucerne’s wooden chapel bridge. The country is also known for its ski resorts and hiking trails. Banking and finance are key industries, and Swiss watches and chocolate are world renowned"
+  },
+  {
+    "_id": "6369a21d6717d9616b309fag",
+    "service_id": "06",
+    "title": "Beautiful Bali",
+    "img": "https://deih43ym53wif.cloudfront.net/bali-indonesia-shutterstock_459773704_0dd494ecf7.jpeg",
+    "price": "1300",
+    "rating": "4",
+    "description": "Bali is a province of Indonesia and the westernmost of the Lesser Sunda Islands. East of Java and west of Lombok, the province includes the island of Bali and a few smaller neighbouring islands, notably Nusa Penida, Nusa Lembongan, and Nusa Ceningan."
+  }
+]
